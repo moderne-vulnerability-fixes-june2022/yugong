@@ -73,8 +73,5 @@ See the page for yugong performance :
 
 ## 问题反馈
 
-1.  qq交流群： 537157866
-2.  邮件交流： jianghang115@gmail.com, zylicfc@gmail.com
-3.  新浪微博： agapple0002
-4.  报告issue：[issues](https://github.com/alibaba/yugong/issues)
+1. 详见 wiki
 
