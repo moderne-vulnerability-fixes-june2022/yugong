@@ -44,25 +44,20 @@ height="206"}
     b.  translator  (将源库上的数据按照目标库的需求进行自定义转化)
     c.  applier  (将数据更新到目标库，可分为全量/增量/对比的实现)
 
-## DevDesign
+## 架构设计
 
-
-See the page for dev design:
 [DevDesign](https://github.com/alibaba/yugong/wiki/DevDesign)
 
-## QuickStart
+## 快速开始
 
-See the page for quick start:
 [QuickStart](https://github.com/alibaba/yugong/wiki/QuickStart)
 
-## AdminGuide
+## 运维管理
 
-See the page for admin deploy guide:
 [AdminGuide](https://github.com/alibaba/yugong/wiki/AdminGuide)
 
-## Performance
+## 性能报告
 
-See the page for yugong performance :
 [Performance](https://github.com/alibaba/yugong/wiki/Performance)
 
 ## 相关资料
@@ -73,5 +68,5 @@ See the page for yugong performance :
 
 ## 问题反馈
 
-1. 详见 wiki
+1. 详见 wiki home 页
 
