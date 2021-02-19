@@ -44,7 +44,7 @@ height="206"}
     b.  translator  (将源库上的数据按照目标库的需求进行自定义转化)
     c.  applier  (将数据更新到目标库，可分为全量/增量/对比的实现)
 
-## 架构设计
+## 方案设计
 
 [DevDesign](https://github.com/alibaba/yugong/wiki/DevDesign)
 
